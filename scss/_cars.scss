@@ -1,0 +1,19 @@
+.cars {
+    h2 {
+        color: $color-02;
+    }
+    li {
+        color: $color-04;
+
+        a {
+            background-color: $color-default;
+            
+        }
+
+        
+        a:hover {
+            background-color: $hover-color5;
+        }
+    }
+}
+
